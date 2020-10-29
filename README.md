@@ -2,7 +2,7 @@
 
 This application is a simple implementation of a YouTube video browser that makes use of the Hooks functionality added in React 16.8.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![App Preview](https://i.imgur.com/UVo0zle.png)
 
 ## Demo 
 
@@ -13,6 +13,8 @@ A demo of this project can be found at [https://videos-hooks.andrewrice.vercel.a
 This application utilizes the YouTube Public API (V3). You will need to replace the YouTube API key in the `apis/youtube.js` file with your own key which can be generated in your [Google Developer Console](http://console.developers.google.com/). 
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
