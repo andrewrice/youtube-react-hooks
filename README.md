@@ -1,12 +1,16 @@
-# Simple React 17 Youtube Browser with Hooks
+# Simple React 17 YouTube Browser with Hooks
 
-This application is a simple implementation of a Youtube video browser that makes use of the Hooks functionality added in React 16.8.
+This application is a simple implementation of a YouTube video browser that makes use of the Hooks functionality added in React 16.8.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo 
 
 A demo of this project can be found at [https://videos-hooks.andrewrice.vercel.app/](https://videos-hooks.andrewrice.vercel.app/).
+
+## Configuring the YouTube API
+
+This application utilizes the YouTube Public API (V3). You will need to replace the YouTube API key in the `apis/youtube.js` file with your own key which can be generated in your [Google Developer Console](http://console.developers.google.com/). 
 
 ## Available Scripts
 
